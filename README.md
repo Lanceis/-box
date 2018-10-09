@@ -35,3 +35,4 @@
 - 主要年龄在30岁以下，男女比例均衡的大学生和职场新人
 - 多注重有趣社交
 - 无聊、焦虑、寻求树洞
+- ![img](https://a3.qpic.cn/psb?/V10RVpvp0AYHSU/P*PAPo7nldQ8KtLv30RMNqjsX9Me2JwJ1TdAeFFocwM!/m/dFIBAAAAAAAAnull&bo=jgIbAQAAAAADB7Q!&rf=photolist&t=5)
