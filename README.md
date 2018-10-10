@@ -34,13 +34,13 @@
 - 人群年龄占比主要集中在35岁以下，35岁的人群占了85.74%。主要是大学生、初入职场的新人、被父母催婚的人士，这部分人群喜欢体验新鲜事物，年轻人爱玩又很潮。回头看历史，这部分人群多是独生子女，在社交方面有更多的孤独感，希望填补自己的社交需求。
 - ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/94F0UtJjJaRTMMgvvCRYOwUfnjmPQu2iDcpYqmMwbpU!/b/dFQBAAAAAAAA&bo=wwUEAwAAAAADF*M!&rf=viewer_4)
 -用户主要集中在一二线城市和发达地区，对于出来打拼的人，大城市快的生活节奏和在城市中朋友甚少，对于家人和朋友报喜不报忧是他们的生活常态，驱使着人们对于熟悉陌生人的渴望，在弱社交之下展现自己真实的一面。
-- ![img数据来源（艾瑞指数）](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/mqMerG3YGRMvejIuvRAkfNJRg16PU7By74nUoElMF5E!/b/dFMBAAAAAAAA&bo=1gVkAwAAAAADJ7Y!&rf=viewer_4)
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/mqMerG3YGRMvejIuvRAkfNJRg16PU7By74nUoElMF5E!/b/dFMBAAAAAAAA&bo=1gVkAwAAAAADJ7Y!&rf=viewer_4)
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/msunnfOYdJHs8PwuyBcvT.Cunu0ScCw8qXTjJ8NvbYc!/b/dDEBAAAAAAAA&bo=HgZ7AgAAAAADF1M!&rf=viewer_4)
 - **1.4.2用户画像**
 - 结合上述分析可归纳出用户画像：
 - 主要年龄在30岁以下，男女比例均衡的大学生和职场新人
 - 多注重有趣社交
 - 无聊、焦虑、寻求树洞
-- ![img](https://a3.qpic.cn/psb?/V10RVpvp0AYHSU/P*PAPo7nldQ8KtLv30RMNqjsX9Me2JwJ1TdAeFFocwM!/m/dFIBAAAAAAAAnull&bo=jgIbAQAAAAADB7Q!&rf=photolist&t=5)
 - **场景一**
 - 姓名：小红
 - 性别年龄：女，20岁
@@ -78,6 +78,8 @@
 - **1.5.1行业分析**
 - 从全球互联网社交市场规模来看，2016年，全球约23.4亿人经常访问社交网络，年增幅9.2%，占全球总人口的32.0%，占网民的68.3%。（摘自前瞻产业研究院《2018年社交网络行业现状分析，国内普及率有望进一步提升》）从2016年社交网络的基数和年增幅情况可以看出，互联网社交目前处于蓬勃发展的状态，毕竟互联网社交缩短了人与人之间和地区与地区之间的距离。2017年全球互联网社交的市场规模达到320亿美元，相比于2016年增长了18.2%，未来几年市场规模呈持续扩大状态。
 - 从中国陌生人社交行业来看，iiMedia Research(艾媒咨询)数据显示，2016Q4中国陌生人社交应用用户规模达4.88亿人，较2016Q3增长3.61%。可以看出陌生人社交用户量增速开始放缓，不久会达到饱和状态，陌生人社交应用的主战场从用户规模转向用户使用时长，提高用户粘性，提升用户体验是接下来的重中之重。
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/oF3QBAzvjWkFWS6xRRh0CFXxhRrhlcBwryN8FHVkqsI!/b/dFMBAAAAAAAA&bo=.QIEAgAAAAADF88!&rf=viewer_4)
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/IdVVnHAn4D4J4uN9HZjwEH0pc0H6KjVzqBCJ07mF9qQ!/b/dDQBAAAAAAAA&bo=qAIiAwAAAAADJ4k!&rf=viewer_4)
 - **1.5.2产品数据**
 - 在艾瑞指数查得，soul排在社交网络第15位，探探排在第6位。选取主要竞争对手之一的探探进行比较。在2018年8月探探的月活为3477万台，而soul的月活只有475万台，探探是soul的7.32倍，从用户数来讲soul确实差了一大截。再看2018年8月soul的环比增幅为3.9%，不算爆炸性的增长，但是增长的很有活力，探探却为负的3.7%。按照这种形势发展下去，提高用户增长率和用户留存率，soul在未来占的市场份额很有可能超过探探。在这个“看脸”的时代，soul主打不“看脸”社交就像一股清流，在用户不断增长的情况下，后期进入的用户不如种子用户质量那么高，很有可能冲淡与探探的区分度，社交氛围才是soul是否能长久的决定性因素。
 ---
@@ -85,10 +87,12 @@
 ---
 2.1产品结构图
 ---
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/f4cetLdm2HsgcUY86qoTeTUwHNhqBKNSpcc0kJTskWQ!/b/dDYBAAAAAAAA&bo=OARPBwAAAAADN2Y!&rf=viewer_4)
 - APP的有星球、广场、发布、信息、自己五个底部导航栏，登录后主界面，其实就是广场页面，第一时间看到的是陌生人的动态。产品的两大核心功能是星球和广场。核心功能入口都很浅，方便用户使用，但是每一页的功能都很多，页面的界定、分类不是特别清晰，给用户的感觉比较杂乱，对于新用户不是很友好。
 ---
 2.2产品流程图
 ---
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/lLotrmGJJNH6zZklkuCRLvdvALQawLBO9UzrBe39EP0!/b/dDYBAAAAAAAA&bo=jAQxAwAAAAADF4g!&rf=viewer_4)
 - 五个主页面绝大部分都能转入到聊天这一项，可以看出产品很注重用户与用户间的互动。
 ---
 2.3版本迭代
