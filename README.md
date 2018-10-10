@@ -16,6 +16,7 @@
 - **产品类型**：社区交友
 - **Slogan**：跟随灵魂找到你
 - **Logo**:logo由四种颜色勾勒而成，黑色代表庄严、神秘，白色代表纯洁神圣，灰色很内敛、很隐约，最后点缀上蓝色不失生机与清爽。
+- -![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/70c6HH.w1ZwrLAg6MmUzjNbGAMlCRs6b7ePK.799.ts!/b/dDYBAAAAAAAA&bo=ggCCAAAAAAADByI!&rf=viewer_4)
 - **产品介绍**：soul是一款温暖、有趣的灵魂社交APP，通过灵魂自测游戏，帮你在茫茫人海中找到适合自己的灵魂伴侣。在“soul荐”算法的支持下，推到懂你的陌生人。数以千万的年轻用户在此，无顾虑的诉说心情，邂逅爱情。还给你提供了自留地，写自己的真实博客，唱内心的歌，送给懂你的人。
 ---
 1.3产品定位
@@ -27,15 +28,19 @@
 ---
 - **1.4.1用户特征**
 - 从艾瑞APP指数上查到的数据显示，月独立设备数在稳定增长，截止到2018年8月环比增长3.9%，从近一年的表现情况来看，soul一直处于用户增长状态。结合数据反应出了三个信息：soul在知乎、微博、豆瓣上投放的高频广告，以自己的slogan“跟随灵魂找到你”，寻找soulmate为核心概念，得到了有效转化；一些应用、自媒体或者新闻的推荐，增加了soul的曝光率；来自朋友同学的安利，借助“口碑营销”触发“病毒式传播”效应，使soul用户量持续增加。从2018年1月到2018年8月之间，8月份的环比增长率是最低的，也反映了soul在获得用户的同时，也在持续失去部分早期用户。
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/A4pI7PFYrxfdiqrfrbB*hQYgCKwiP5pCPe7Ea7W23Xc!/b/dDYBAAAAAAAA&bo=DgbrAQAAAAADB8A!&rf=viewer_4)
 - 男性人群占比49.7%，女性人群占比50.3%，基本属于男女用户均衡的状态，女性用户比男性用户略多一点。男女比例与soul对自己产品的定位有关，soul能作为用户的树洞，满足用户的展示欲，渴望找到灵魂伴侣，在焦虑、无聊、痛苦时发泄自己。女性用户更感性、更焦虑，内心情绪波动相比男性要强，这也是女性用户略多于男性用户的原因。
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/KQkKXCW.yoEOV*LqsJEylJ6Mos40TyjCYPKzj*d5in8!/b/dFMBAAAAAAAA&bo=vwX4AAAAAAADF3A!&rf=viewer_4)
 - 人群年龄占比主要集中在35岁以下，35岁的人群占了85.74%。主要是大学生、初入职场的新人、被父母催婚的人士，这部分人群喜欢体验新鲜事物，年轻人爱玩又很潮。回头看历史，这部分人群多是独生子女，在社交方面有更多的孤独感，希望填补自己的社交需求。
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/94F0UtJjJaRTMMgvvCRYOwUfnjmPQu2iDcpYqmMwbpU!/b/dFQBAAAAAAAA&bo=wwUEAwAAAAADF*M!&rf=viewer_4)
 -用户主要集中在一二线城市和发达地区，对于出来打拼的人，大城市快的生活节奏和在城市中朋友甚少，对于家人和朋友报喜不报忧是他们的生活常态，驱使着人们对于熟悉陌生人的渴望，在弱社交之下展现自己真实的一面。
+- ![img数据来源（艾瑞指数）](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/mqMerG3YGRMvejIuvRAkfNJRg16PU7By74nUoElMF5E!/b/dFMBAAAAAAAA&bo=1gVkAwAAAAADJ7Y!&rf=viewer_4)
 - **1.4.2用户画像**
 - 结合上述分析可归纳出用户画像：
 - 主要年龄在30岁以下，男女比例均衡的大学生和职场新人
 - 多注重有趣社交
 - 无聊、焦虑、寻求树洞
--![img](https://a3.qpic.cn/psb?/V10RVpvp0AYHSU/P*PAPo7nldQ8KtLv30RMNqjsX9Me2JwJ1TdAeFFocwM!/m/dFIBAAAAAAAAnull&bo=jgIbAQAAAAADB7Q!&rf=photolist&t=5)
+- ![img](https://a3.qpic.cn/psb?/V10RVpvp0AYHSU/P*PAPo7nldQ8KtLv30RMNqjsX9Me2JwJ1TdAeFFocwM!/m/dFIBAAAAAAAAnull&bo=jgIbAQAAAAADB7Q!&rf=photolist&t=5)
 - **场景一**
 - 姓名：小红
 - 性别年龄：女，20岁
