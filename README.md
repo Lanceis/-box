@@ -34,7 +34,7 @@
 - 人群年龄占比主要集中在35岁以下，35岁的人群占了85.74%。主要是大学生、初入职场的新人、被父母催婚的人士，这部分人群喜欢体验新鲜事物，年轻人爱玩又很潮。回头看历史，这部分人群多是独生子女，在社交方面有更多的孤独感，希望填补自己的社交需求。
 - ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/94F0UtJjJaRTMMgvvCRYOwUfnjmPQu2iDcpYqmMwbpU!/b/dFQBAAAAAAAA&bo=wwUEAwAAAAADF*M!&rf=viewer_4)
 -用户主要集中在一二线城市和发达地区，对于出来打拼的人，大城市快的生活节奏和在城市中朋友甚少，对于家人和朋友报喜不报忧是他们的生活常态，驱使着人们对于熟悉陌生人的渴望，在弱社交之下展现自己真实的一面。
-- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/mqMerG3YGRMvejIuvRAkfNJRg16PU7By74nUoElMF5E!/b/dFMBAAAAAAAA&bo=1gVkAwAAAAADJ7Y!&rf=viewer_4)
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/mqMerG3YGRMvejIuvRAkfNJRg16PU7By74nUoElMF5E!/b/dFMBAAAAAAAA&bo=1gVkAwAAAAADB5Y!&rf=viewer_4)
 - ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/msunnfOYdJHs8PwuyBcvT.Cunu0ScCw8qXTjJ8NvbYc!/b/dDEBAAAAAAAA&bo=HgZ7AgAAAAADF1M!&rf=viewer_4)
 - **1.4.2用户画像**
 - 结合上述分析可归纳出用户画像：
@@ -173,6 +173,10 @@
 ---
 - 下文选取功能、优点、建议三个具体层面，对星球、广场、发布、信息和自己（信息和自己两个页面合并分析）四部分进行功能体验分析。
 - **2.4.1星球**
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/63JUB9V4akKrk7JKTI4BwpIi7l6okG5jbrHNoLKo0oc!/b/dFcAAAAAAAAA&bo=AAQAAwAAAAARFyc!&rf=viewer_4)
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/iUDApPKcu78gvTQmZqDnb6NwHZk3X8E7At74DYpKfsc!/b/dDABAAAAAAAA&bo=AAQABAAAAAARFyA!&rf=viewer_4)
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/nGQl20rPbM1ShDgB.UVjaYVVCRdisx93*5dGjCzvxpU!/b/dFMBAAAAAAAA&bo=AAQABAAAAAARFyA!&rf=viewer_4)
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/LLz.MSPEdl010IMNB9tOsbcECtayg*9dWpRRJUL49UQ!/b/dFMBAAAAAAAA&bo=AAQABAAAAAARBzA!&rf=viewer_4)
 - **功能：**
 - 进入星球页面最容易注意到显示这昵称和匹配程度的小球在旋转，不同颜色代表不同的性别，紫色代表最新用户，他们小球好像在围绕一个隐形的大球旋转，通过点击小球即可查看souler的瞬间，如果感兴趣可以加关注和私聊。
 - 星球页的下半部分有灵魂匹配和语音匹配，右边漏斗形状的icon能够进行性别筛选。点击灵魂匹配进入匹配加载页面是一个可以旋转变化的大球，匹配成功会进入聊天页面。点击语音匹配会有同样的等待页面，匹配成功会有三分钟的语音聊天时间。
@@ -184,6 +188,9 @@
 - 筛选icon的设计导向性不强，尤其是在灵魂匹配和语音匹配部分，新用户不容易察觉，需要一定的学习成本。soul以前在右上角是叫做筛选，近期才改成星球的。筛选显得用户导向性更强，改成星球之后显得更有灵魂社交的属性，但是增加了用户的学习成本。建议可以进行更改，新用户使用时显示的叫做筛选，用户使用三次之后，icon名称自动更改为星球，及降低了新用户的学习成本，也不失产品的逼格。
 - 灵魂匹配和语音匹配成功，就开启了两个陌生人间的灵魂交流，由于第一次聊天不知道对方的喜好，难免会有进入尬聊状态，影响产品体验。如果官方在灵魂匹配和语音匹配部分加入多个话题，在匹配的过程中可以选择某一个固定话题匹配，匹配成功能快速进行交流，解决了初次聊天的尴尬。
 - **2.4.2广场**
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/PPjclzp.V0CD3W1BVj.wxBPU6KFyp7rTo2b*3mswXKs!/b/dDEBAAAAAAAA&bo=AAQABAAAAAARBzA!&rf=viewer_4)
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/FzC7GoPKs1ZLRcFN9yeYt0xBc*He8bQ8Y6*RHknMZx4!/b/dFQBAAAAAAAA&bo=AAQABAAAAAARBzA!&rf=viewer_4)
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/Gd1j69aW3gkziPLcN0t2*DQsgHi2IkZDmo9wYIHsFLc!/b/dC0BAAAAAAAA&bo=AAQABAAAAAARBzA!&rf=viewer_4)
 - **功能：**
 - 广场右上角可以进行随机音频播放，随机音频结束后自动下一首，双击音频可进入作品界面，看其他人与作者的互动，拖动音频至最下端可删除。
 - 进入搜索栏可以直接搜索到用户与其相关的内容，比如搜索“摄影”，显示出来的内容里必须有摄影两个字。也可以根据自己的喜好只浏览文字、图片、音频、视频、共创的内容，soul还添加了热门标签的搜索推荐。
@@ -196,6 +203,7 @@
 - 搜索部分的热门标题的颜色设计，采用的灰色为底色，在视觉方面太冷淡，不能很好的反映出热门标题的”热”字，建议采用红色、黄色等热情的配色，这样色系和名称才显得更加自然。
 - 在瞬间中点击图片进行浏览时，双击图片是点赞功能。我认为这个设计违反了用户的使用习惯，在安卓机、苹果机的相册中双击图片，可进行中心放大。再通过一些常用app来看，微信朋友圈、微博、百度贴吧中的图片，双击也是对图片中心放大，再双击缩小。虽然抖音是可以双击喜欢的内容点赞，但是soul这里放置的是图片而不是视频，而且soul的定位是一款有逼格重灵魂的app，在浏览图片的过程中双击放大，才是最符合用户使用习惯、最合理的交互设计。
 - **2.4.3发布**
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/ZPwCKcpGMNwsCeyN.VpsD9ih.FXpQp7H5SXHJ6Lf2A4!/b/dDQBAAAAAAAA&bo=OAQMCQAAAAARBwk!&rf=viewer_4)
 - **功能：**
 - 发布页面支持图片、录像、文字（500字）、内容、语音、表情、拍摄上传、录像上传，除此之外可以设置位置、标签、可见人、权限、心情，可以说功能强大而又全面。如果临时有事需要处理，可以保存草稿供下次使用。
 - 在录制语音内容的左边有一个音乐的标志，点击进入后进入一个共创的功能，可以搜索相关音乐进行与用户共创，相当于两个人合唱这首歌，录制成功即可发布。
@@ -205,6 +213,8 @@
 - **建议：**
 - 音乐共创是一个很有趣的功能设计，但是我认为其使用入口放置得太深了，并且其icon对于新用户缺少有效的引导。因为刚开始发瞬间的用户，一般会选择只发文字或者文字加图片，很多时候不会去点击语音发布，随着使用时长变久，更多的用户才会发现此功能。建议把共创放置在发布首页的最上面，代替“记录中”这三个字的位置，因为共创内容要在app中不断制作，录制到自己满意的才会发布，尽早让用户发现和使用，能提升用户粘性和使用时长。
 - **2.4.4信息和自己**
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/kR8h7mBhzYa8YqDhZ2h6p*MqJiR*pcOLxbmawHnJdO4!/b/dFIBAAAAAAAA&bo=AAQABAAAAAARBzA!&rf=viewer_4)
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/Xj22hcL9BboWxqzxF2PTm3d2rEV3ktPNx7e8BBzysvY!/b/dDQBAAAAAAAA&bo=AAQABAAAAAARBzA!&rf=viewer_4)
 - **功能：**
 - 信息页中可以设置自己的聊天状态，想要聊天、允许匹配、拒绝匹配，这可以帮助选择是否收获到陌生人的消息。
 - 消息栏可以进行置顶、删除和批量管理，在聊天过程中可进行文字、图片、打电话（需要成为密友）、发视频（需要相互关注）、发语音、表情。
@@ -219,8 +229,12 @@
 ---
 三、用户意见
 ---
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/P*PAPo7nldQ8KtLv30RMNqjsX9Me2JwJ1TdAeFFocwM!/b/dFIBAAAAAAAA&bo=jgIbAQAAAAADB7Q!&rf=viewer_4)
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/.lbbViDmEsHriSzcH6*nj2RwcQ5lq9chX*0DbBwDaeA!/b/dFMBAAAAAAAA&bo=ZwWNAQAAAAADB8w!&rf=viewer_4)
+- ![img](http://m.qpic.cn/psb?/V10RVpvp0AYHSU/pkdXHvWBJWZRuMByA1Fw9s0vqBYq0zG6Aw15qJgbZf0!/b/dFMBAAAAAAAA&bo=ZgUQAQAAAAADF0A!&rf=viewer_4)
 - soul在App Store里目前评分4.7，是一个蛮高的分数(以下三种图片来源于七麦数据)。五星好评非常多，当然也有一星的差评，不知是真的感觉不怎么样，还是“猴子请来的救兵”，个人体验很nice。
 - 知乎上用户对soul的评价
+- ![img](https://m.qpic.cn/psb?/V10RVpvp0AYHSU/nqB4DOMspRleY9ChavpwMsCuoHFWR6cfzz3vrxG8GW8!/b/dDcBAAAAAAAA&bo=WgM0AwAAAAADB0w!&rf=viewer_4)
 - 用户评价很好反应soul的现在，早期的小而美是souler最留恋的部分，可以真正的做到灵魂社交，之后的用户量的壮大就会面临“大而俗”挑战。
 ---
 四、如果我是PM
